@@ -3,6 +3,7 @@
 meu nome é Belle 
 
 -sou estudante do Alura
+
 -estou aprendendo a linguagem javasvript
 <!--
 **Isabelle-Silva/Isabelle-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
